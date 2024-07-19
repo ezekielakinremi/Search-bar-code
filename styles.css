@@ -1,0 +1,13 @@
+/* styles.css */
+
+.filter-container {
+    display: flex;
+    margin-bottom: 10px;
+  }
+  
+  #search-input,
+  #filter-dropdown {
+    padding: 5px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+  }
